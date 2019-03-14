@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+not a git test 
+=======
+git was here 
+>>>>>>> branch1
